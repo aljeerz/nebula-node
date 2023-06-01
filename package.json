@@ -1,6 +1,6 @@
 {
   "name": "@aljeerz/nebula-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeJS Utility Wrapper for Nebula Graph NodeJS SDK",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
