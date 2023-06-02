@@ -24,7 +24,7 @@ Quality Of Life :
 ## Installation
 
 ```
-npm install @aljeerz/nebula-node
+npm install @aljeerz/nebula-node @nebula-contrib/nebula-nodejs
 ```
 
 ## MultiClient Usage ( Basic )

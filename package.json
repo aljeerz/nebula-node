@@ -23,7 +23,7 @@
     "neblua-graph",
     "ngql"
   ],
-  "author": "Aljeerz",
+  "author": "Abdelmounaim Bouakouk <abdelmounaim@bouakouk.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aljeerz/nebula-node/issues"
